@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/blacksrc/Finch#readme",
   "dependencies": {
-    "body-parser": "^1.18.2"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.3"
   }
 }
