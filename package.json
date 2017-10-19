@@ -1,0 +1,25 @@
+{
+  "name": "finch",
+  "version": "0.1.0",
+  "description": "Simple and easy Node.js chat service.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacksrc/Finch.git"
+  },
+  "keywords": [
+    "Chat",
+    "Nodejs",
+    "Reactjs",
+    "MongoDB"
+  ],
+  "author": "Siamak A.Motlagh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacksrc/Finch/issues"
+  },
+  "homepage": "https://github.com/blacksrc/Finch#readme"
+}
